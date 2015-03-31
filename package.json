@@ -1,0 +1,32 @@
+{
+  "name": "zetta-microphone-raspberrypi-driver",
+  "version": "0.4.0",
+  "description": "Microphone raspberrypi driver for zetta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya Agrawal <chaitiagrawal@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krypten/zetta-microphone-raspberrypi-driver.git"
+  },
+  "dependencies": {
+    "rpi-gpio":"^0.5.1",
+    "zetta-auto-scout": "^0.5.0",
+    "zetta-device": "^0.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/krypten/zetta-microphone-raspberrypi-driver/issues"
+  },
+  "homepage": "https://github.com/krypten/zetta-microphone-raspberrypi-driver",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "zetta",
+    "raspberrypi",
+    "microphone"
+  ]
+}
